@@ -21,9 +21,3 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,linux,docker,vscode&theme=dark" alt="Technologies and tools" />
 </p>
 
-<h2>💻 Find Me on GitHub</h2>
-<p>
-  <a href="https://github.com/a2cri">
-    <img src="https://img.shields.io/badge/GitHub-a2cri-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
