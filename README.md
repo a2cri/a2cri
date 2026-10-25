@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36,48&height=180&section=header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36,48&height=180&section=footer" width="100%" />
 </p>
 <h2>Hey 👋, I'm Cristian</h2>
 <p>I'm a DAW student from Spain 🇪🇸, learning software development and exploring the world of web development. I'm building my skills through coursework, coding practice, and personal projects.</p>
