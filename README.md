@@ -1,47 +1,31 @@
-<div align="center">
+ <h2>Hey 👋, I'm Cristian</h2>
+<p>I'm a DAW student from Spain 🇪🇸, learning software development and exploring the world of web development. I'm building my skills through coursework, coding practice, and personal projects.</p>
+<p>
+  <img src="https://img.shields.io/badge/Student-DAW-8B5CF6?style=flat-square&labelColor=0D1117" alt="DAW Student" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-A78BFA?style=flat-square&labelColor=0D1117" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Status-Learning-8B5CF6?style=flat-square&labelColor=0D1117" alt="Learning" />
+</p>
 
-<img src="./assets/terminal.gif" width="900" alt="a2cri terminal banner">
+<img align="right" width="250" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding animation" />
 
-<br><br>
+<h2>⚡ A Few Quick Facts</h2>
+<ul>
+  <li>🎓 Currently studying <strong>Web Application Development (DAW)</strong>.</li>
+  <li>☕ Practicing <strong>Java</strong> and object-oriented programming.</li>
+  <li>🌐 Learning <strong>HTML, CSS and JavaScript</strong>.</li>
+  <li>🗄️ Working with <strong>SQL and databases</strong>.</li>
+  <li>🐧 Exploring <strong>Linux, Git and Docker</strong>.</li>
+  <li>🚀 Learning something new with every project.</li>
+</ul>
 
-# a2cri
+<h2>🚀 Technologies & Tools</h2>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,linux,docker,vscode&theme=dark" alt="Technologies and tools" />
+</p>
 
-### `Developer in progress`
-
-*Learning by building · Aprendiendo creando*
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode&theme=dark" />
-
-<br><br>
-
----
-
-### `ABOUT ME · SOBRE MÍ`
-
-🇬🇧 DAW student from Spain, learning software development and building my skills one project at a time.
-
-🇪🇸 Estudiante de DAW en España, aprendiendo desarrollo de software y mejorando con cada proyecto.
-
-<br>
-
-### `CURRENTLY LEARNING`
-
-```text
-> Java programming
-> HTML, CSS & JavaScript
-> Databases and SQL
-> Web development
-```
-
-<br>
-
-### `GITHUB STATS`
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=a2cri&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" />
-
-<br><br>
-
----
-</div>
+<h2>💻 Find Me on GitHub</h2>
+<p>
+  <a href="https://github.com/a2cri">
+    <img src="https://img.shields.io/badge/GitHub-a2cri-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
