@@ -39,7 +39,7 @@
 
 ### `GITHUB STATS`
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=a2cri&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=a2cri&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github" />
 
 <br><br>
 
