@@ -24,3 +24,6 @@
   <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,linux,docker,vscode&theme=dark" alt="Technologies and tools" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36,48&height=180&section=footer" width="100%" />
+</p>
