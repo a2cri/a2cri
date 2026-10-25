@@ -6,8 +6,6 @@
   <img src="https://img.shields.io/badge/Status-Learning-8B5CF6?style=flat-square&labelColor=0D1117" alt="Learning" />
 </p>
 
-<img align="right" width="250" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding animation" />
-
 <h2>⚡ A Few Quick Facts</h2>
 <ul>
   <li>🎓 Currently studying <strong>Web Application Development (DAW)</strong>.</li>
