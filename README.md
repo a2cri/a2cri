@@ -1,4 +1,7 @@
- <h2>Hey 👋, I'm Cristian</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36,48&height=180&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
+</p>
+<h2>Hey 👋, I'm Cristian</h2>
 <p>I'm a DAW student from Spain 🇪🇸, learning software development and exploring the world of web development. I'm building my skills through coursework, coding practice, and personal projects.</p>
 <p>
   <img src="https://img.shields.io/badge/Student-DAW-8B5CF6?style=flat-square&labelColor=0D1117" alt="DAW Student" />
