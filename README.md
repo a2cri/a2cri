@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,100:581c87&height=180&section=header" width="100%" />
 </p>
+
 <h2>Hey 👋, I'm Cristian</h2>
 <p>I'm a DAW student from Spain 🇪🇸, learning software development and exploring the world of web development. I'm building my skills through coursework, coding practice, and personal projects.</p>
 <p>
@@ -34,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e1065,100:581c87&height=180&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=60&section=footer" width="100%" />
 </p>
