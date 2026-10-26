@@ -4,6 +4,7 @@
 
 <h2>Hey 👋, I'm Cristian</h2>
 <p>I'm a DAW student from Spain 🇪🇸, learning software development and exploring the world of web development. I'm building my skills through coursework, coding practice, and personal projects.</p>
+<p>Most of my work so far has been for school, so I don't have any public personal projects yet.</p>
 <p>
   <img src="https://img.shields.io/badge/Student-DAW-8B5CF6?style=flat-square&labelColor=0D1117" alt="DAW Student" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-A78BFA?style=flat-square&labelColor=0D1117" alt="Web Development" />
