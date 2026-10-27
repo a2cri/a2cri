@@ -39,7 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=a2cri&show_icons=true&theme=dracula&title_color=a78bfa&text_color=ffffff&bg_color=0d1117&border_color=2e1065&hide_border=false" alt="Cristian's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a2cri&layout=compact&theme=dracula&title_color=a78bfa&text_color=ffffff&bg_color=0d1117&border_color=2e1065&hide_border=false" alt="Top Languages" height="165" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=60&section=footer" width="100%" />
