@@ -35,13 +35,13 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
-<h2>📊 GitHub Stats</h2>
 
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=a2cri&show_icons=true&count_private=true&theme=dracula&title_color=a78bfa&text_color=ffffff&bg_color=0d1117&border_color=2e1065" alt="Cristian's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a2cri&theme=dracula" alt="Cristian's GitHub Stats" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2e1065&height=60&section=footer" width="100%" />
 </p>
